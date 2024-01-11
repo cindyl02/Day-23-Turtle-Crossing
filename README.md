@@ -1,0 +1,3 @@
+## Day 23 Turtle Crossing 
+### About
+This project uses Python Turtle and OOP to create a Turtle Crossing Game. The goal of the game is to try to cross to the top of the screen without hitting any cars. The cars move from the right of the screen to the left. After successfully crossing, the level will increase and the scoreboard will reflect the new score. At each level, the cars will move increasingly faster to increase difficulty of the game. The game ends when the turtle hits a car. 
